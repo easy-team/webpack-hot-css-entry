@@ -3,10 +3,10 @@
 [![NPM version][npm-image]][npm-url]
 [![npm download][download-image]][download-url]
 
-[npm-image]: https://img.shields.io/npm/v/npm-package-template.svg?style=flat-square
-[npm-url]: https://npmjs.org/package/npm-package-template
-[download-image]: https://img.shields.io/npm/dm/npm-package-template.svg?style=flat-square
-[download-url]: https://npmjs.org/package/npm-package-template
+[npm-image]: https://img.shields.io/npm/v/webpack-hot-css-entry.svg?style=flat-square
+[npm-url]: https://npmjs.org/package/webpack-hot-css-entry
+[download-image]: https://img.shields.io/npm/dm/webpack-hot-css-entry.svg?style=flat-square
+[download-url]: https://npmjs.org/package/webpack-hot-css-entry
 
 
 Webpack css hot reload, this plugin depends on webpack-hot-middleware.
